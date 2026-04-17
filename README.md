@@ -6,7 +6,7 @@
 **Repository purpose:** code and outputs for the coursework submission.
 
 ## How to run
-
+Create a folder called `datasets` and put all csv file in it
 Put `CW_CODE.ipynb` and the `datasets/` folder in the same parent folder. In other words, the notebook and the datasets folder should sit side by side, for example:
 
 ```text
@@ -24,11 +24,7 @@ Put `CW_CODE.ipynb` and the `datasets/` folder in the same parent folder. In oth
     └── 2019.csv
 ```
 
-The full `datasets/` folder is **not uploaded to this repository** because it is too large for direct browser upload.
-
-To run the notebook, create a folder called `datasets` in the repository root and place the required CSV files inside it.
-
-The dataset files used in this coursework are:
+The dataset csv files used in this coursework are:
 
 ### Part 1 files
 
